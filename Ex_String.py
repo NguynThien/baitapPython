@@ -1,3 +1,5 @@
+# Nguyễn Ngọc Thiện Lớp: 09CNTT04
+
 # Bài 1 Viết hoa toàn bộ chữ cái đầu từ trong câu cho trước nhập vào từ bàn phím. Các chữ cái còn lại viết thường.
 
 n = int(input("Nhap vao n: "))
